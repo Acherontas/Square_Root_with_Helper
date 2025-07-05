@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750338478 source:/home/acherontas/codeblock/sqr_rt_fnlarm64/main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
